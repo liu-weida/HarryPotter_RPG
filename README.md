@@ -13,3 +13,6 @@ If you want to see how the game works you can just run the existing jar file in 
 The image resources used are from the Internet, if inadvertently infringed on your copyright please contact me, I will be removed immediately.
 
 If you have any questions about this program, please contact me at liuweida1010@gmail.com
+
+
+走过路过不嫌弃的就帮我点个星吧。
